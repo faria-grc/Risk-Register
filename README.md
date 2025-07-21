@@ -12,8 +12,6 @@ This repository contains a professionally structured IT Risk Register developed 
 Useful for GRC Analysts, Risk Managers, and IT Governance teams as a foundational template for building risk registers.
 
 ## 📁 File Included
-- `Risk_Register_ISO31000.xlsx` – Editable Excel file with all fields
-## 📁 File Included
 - [📄 Risk_Register_ISO31000.xlsx](Risk_Register_ISO31000.xlsx) – Editable Excel file with all fields
 
 ---
