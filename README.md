@@ -13,6 +13,8 @@ Useful for GRC Analysts, Risk Managers, and IT Governance teams as a foundationa
 
 ## 📁 File Included
 - `Risk_Register_ISO31000.xlsx` – Editable Excel file with all fields
+## 📁 File Included
+- [📄 Risk_Register_ISO31000.xlsx](Risk_Register_ISO31000.xlsx) – Editable Excel file with all fields
 
 ---
 
